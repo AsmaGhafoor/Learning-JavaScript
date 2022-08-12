@@ -11,7 +11,8 @@ let car = {
     }
 }
 //We have already seen constractor like these:
-//new Date();
+//New Keyword naya object banata hai 
+//new Date(); 
 
 
 //Creating a constructor for cars
