@@ -1,6 +1,7 @@
 console.log('INDEX 28');
 
-//Object Literal
+//Object Literal : Object Prototype
+//Jab object lietral banatey to wo object prototype se start krta hai
 
 let obj = {
     name: 'asma',
